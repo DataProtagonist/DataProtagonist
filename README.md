@@ -97,6 +97,5 @@ I’m driven by curiosity and a passion for learning, constantly staying updated
 
 ## 📫 Let’s Connect!
 - **LinkedIn**: [Pranay Datta Kavukuntla](https://www.linkedin.com/in/pranay-datta-kavukuntla-800597189/)
-- **Email**: pranaydattakavukuntla@gmail.com
 
 I’m always open to new opportunities and collaborations. Feel free to reach out if you’d like to discuss projects, exchange ideas, or explore how I can help with your data engineering challenges!
