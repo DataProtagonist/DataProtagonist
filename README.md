@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Pranay Datta Kavukuntla
 
-**Data Engineer | Business Data Analyst | Cloud Enthusiast**
+**Data Engineer | Data Analyst | Cloud Enthusiast | Business Analyst**
 
 🔭 I am an experienced Data Engineer with over **3+ years of expertise** in designing, building, and optimizing complex data pipelines, ETL processes, and data architectures. I enjoy solving business challenges by leveraging scalable data solutions and using data to drive decision-making.
 
